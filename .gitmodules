@@ -1,0 +1,3 @@
+[submodule "external/sonovolt"]
+	path = external/sonovolt
+	url = git@github.com:ricardomatias/sonovolt.git
